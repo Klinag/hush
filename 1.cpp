@@ -6,7 +6,7 @@ int main()
 {
 	cout << "Hello world";
 	cout << "Privet";
-	cout << "New feature" << endl;
+	cout << "Old feature" << endl;
 
 	return 0;
 }
