@@ -1,0 +1,10 @@
+
+*.out
+*.o
+*.h.gch
+.Makefile.*
+.gitignore.*
+1
+Count_sort
+
+
